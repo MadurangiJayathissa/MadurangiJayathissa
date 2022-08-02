@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C,CSS,HTML**
 
-- 📫 How to reach me **madurangijayathissa988.com**
+- 📫 How to reach me **madurangijayathissa988@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
