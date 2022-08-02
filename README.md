@@ -4,13 +4,15 @@
 </p>
 <h3 align="center">A passionate developer from Sri Lanka</h3></br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MadurangiJayathissa" alt="MadurangiJayathissa" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
 
 - 🌱 I’m currently learning **C,Java,Python,Arduino**
 
 - 💬 Ask me about **C,CSS,HTML**
+
+- 📫 How to reach me **madurangijayathissa988.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
