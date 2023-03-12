@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C,Java,Python,Arduino**
 
-- 💬 Ask me about **C,CSS,HTML**
+- 💬 Ask me about **C,CSS,HTML,JS,JAVA,Boostrap5,GitHub**
 
 
 
